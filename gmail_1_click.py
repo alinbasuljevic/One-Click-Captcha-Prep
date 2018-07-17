@@ -25,7 +25,7 @@ def main_function():
     driver.find_element_by_xpath('//*[@id="rso"]/div/div/div[3]/div/div/h3/a').click()
     print ('Found Youtube Video...')
     print ('Watching Youtube Video ;)')
-    time.sleep(25)
+    time.sleep(250)
     print ('Finished Watching Youtube Video!')
     print ('')
     print ('Starting Randomized Google Searches...')
